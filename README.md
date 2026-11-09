@@ -60,8 +60,6 @@ You can also host the folder on a static HTTPS hosting service such as GitHub Pa
 - `index.html` — Main game containing the HTML, CSS and JavaScript.
 - `manifest.webmanifest` — Web app manifest.
 - `sw.js` — Service worker responsible for offline caching.
-- `icon-192.png` — 192px application icon.
-- `icon-512.png` — 512px application icon.
 - `CHANGELOG.md` — Development changes and updates.
 - `QA_REPORT.md` — Quality assurance report.
 
