@@ -57,11 +57,14 @@ You can also host the folder on a static HTTPS hosting service such as GitHub Pa
 
 ## PROJECT FILES
 
+## PROJECT FILES
+
+- `README.md` — Project overview, installation instructions, usage guide and attribution requirements.
+- `LICENSE` — BSD 3-Clause License, defining the permissions and conditions for using, modifying and redistributing the project.
 - `index.html` — Main game containing the HTML, CSS and JavaScript.
 - `manifest.webmanifest` — Web app manifest.
 - `sw.js` — Service worker responsible for offline caching.
-- `CHANGELOG.md` — Development changes and updates.
-- `QA_REPORT.md` — Quality assurance report.
+- `QA_REPORT.md` — Quality assurance report documenting testing and known issues.
 
 **Additional information:**
 - `backup/` — Contains the previous version of the game, from before the latest development pass.
